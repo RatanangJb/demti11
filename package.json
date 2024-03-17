@@ -1,0 +1,22 @@
+{
+  "name": "ratanangjb",
+  "version": "1.0.0",
+  "description": "ratanangjb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RatanangJb/demti11.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "ratanangjb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RatanangJb/demti11/issues"
+  },
+  "homepage": "https://github.com/RatanangJb"
+}
